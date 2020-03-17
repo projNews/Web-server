@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"sourceRoot": "src",
+		"outDir": "build",
+		"sourceMap": false,
+		"inlineSourceMap": true,
+
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+
+		"noImplicitReturns": true,
+		"alwaysStrict": true,
+		"experimentalDecorators": true,
+		"suppressImplicitAnyIndexErrors": true,
+		"downlevelIteration": true,
+		"emitDecoratorMetadata": true
+	},
+	"exclude": [
+		"build",
+		"node_modules"
+	]
+}
